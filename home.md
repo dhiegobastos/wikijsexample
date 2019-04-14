@@ -1,12 +1,8 @@
-<!-- TITLE: Requarks -->
-<!-- SUBTITLE: Documentation for all Requarks projects. -->
+<!-- TITLE: Página Inicial -->
+<!-- SUBTITLE: A quick summary of Página Inicial -->
 
-# Wiki.js
-An open source, modern and powerful wiki app built on Node.js, Git and Markdown.
+# Wiki Ânima
 
-- [Documentation](wiki)
+Documentação artefatos.
 
-### Quick Links
-
-- [Official Website](https://wiki.requarks.io)
-- [GitHub Repository](https://github.com/Requarks/wiki)
+- [Documentação](/wiki)
