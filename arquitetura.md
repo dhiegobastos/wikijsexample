@@ -5,3 +5,9 @@
 ## AWS
 Link para a página com conteúdo da AWS.
 Link
+
+## Azure
+
+## Azure DevOps
+
+## Arquitetura Evolutiva
