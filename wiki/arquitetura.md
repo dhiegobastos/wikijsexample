@@ -4,7 +4,7 @@
 # Arquitetura
 ## AWS
 Link para a página com conteúdo da AWS.
-[Link](/home/arquitetura/aws)
+[Link](/wiki/arquitetura/aws)
 
 ## Azure
 
