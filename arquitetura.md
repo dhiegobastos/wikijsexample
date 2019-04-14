@@ -4,7 +4,7 @@
 # Arquitetura
 ## AWS
 Link para a página com conteúdo da AWS.
-Link
+[Link](http://wikianima.centralus.azurecontainer.io:3000/arquitetura/aws)
 
 ## Azure
 
